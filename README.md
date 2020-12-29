@@ -1,6 +1,6 @@
 # Farey Algorithm For The Riemann Zeta Function at 3
 
-A Python script that is able to produce more accurate approximations to a potential closed form of the Riemann Zeta Function at 3, with any user-specified form, using the Farey Algorithm.
+A Python script that is able to produce more accurate approximations to a potential closed form of the Riemann Zeta Function at 3, with any user-specified form, using the Farey Algorithm. This is done essentially through brute-force.
 
 ALL MATHEMATICAL OPERATIONS MUST BE DONE USING MPMATH OR SOME OTHER PACKAGE THAT USES MPF!
 The documentation can be found here: https://mpmath.org/doc/current/general.html
