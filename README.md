@@ -14,3 +14,7 @@ If the user wishes to experient with a different form, e.g using ln(2), they mus
 In the Farey Function, "x" is the decimal that is produced by the division of Zeta(3) and what is being tested, e.g Zeta(3) = Pi^3 = "g" => "x" in the algorithm. "N" is the maximum integer value that can be produced by either the numerator or denominator values. "h" is used as the vairable used to specify this limit into the function.
 
 I also have a newer version of this script that involves both the Farey Algorithm and Gradient Descent to allow for faster error calculations. I have also used this setup to allow me to produce individual coefficients for the terms being tested, as I have mentioned above instead of just a collective coefficient that is multiplied to everything, however, there are currently bugs in it that I have not been able to fix as of yet but I will upload it when it is ready.
+
+
+
+Remark: I was inspired to do this script from the following paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.487.9293&rep=rep1&type=pdf It has potential closed forms that can also be experiemented with using my algorithm instead which is several times faster from my testing.
